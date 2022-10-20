@@ -29,4 +29,6 @@ This is a web application that manages supplies, movements and orders, in this c
 - Alina Rodríguez
 - Kevin Alvarado 
 
+Note: It is required to run _npm install_ before starting.
+
 _Developed in 2021_
